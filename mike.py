@@ -1,5 +1,5 @@
 import streamlit as st
-
+st.image("ChatGPT Image 22 abr 2025, 12_12_32png")
 # Constante de los gases ideales
 R = 0.0821  # atm·L/(mol·K)
 
